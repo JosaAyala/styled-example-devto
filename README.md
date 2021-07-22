@@ -1,3 +1,10 @@
+# Proposal
+
+Ejemplo Básico del uso de styled-component para publicar un post en dev.to
+Link del post: https://dev.to/ayalajosa/styled-component-reactjs-es-1302
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
